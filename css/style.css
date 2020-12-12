@@ -60,7 +60,7 @@ color: #383333;
     border: 1px solid#007bff;
 }
 #explore-body img {
-    width: 500px;
+    width: 100%;
     text-align: center;
     border-radius: 41%;
 }
